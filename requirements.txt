@@ -1,0 +1,6 @@
+gTTS==2.5.1
+pydub==0.25.1
+googletrans==4.0.0rc1
+langdetect==1.0.9
+python-dotenv==1.0.1
+colorama==0.4.6
